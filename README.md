@@ -1,2 +1,2 @@
 #  Calculator website
-🌐🧮 This website is helpful to carry out the calculation for Z-test used in statistics and gives out result and other parameters in seconds thus heling in checking answers.
+🌐🧮 This website serves as a valuable tool for performing Z-test calculations commonly used in statistics. It quickly generates results and provides various parameters, facilitating easy verification of answers. Developed with HTML, CSS, and JavaScript, this calculator guarantees 100% accuracy.
